@@ -49,6 +49,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://x.com/daboigbae/status/1679509232465629184/photo/1"  />
+  <img height="200" src="https://pbs.twimg.com/media/F07QvOSaIAAppJP?format=jpg&name=medium"  />
 </div>
 
