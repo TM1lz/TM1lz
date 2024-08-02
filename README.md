@@ -49,6 +49,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://pbs.twimg.com/media/F07QvOSaIAAppJP?format=jpg&name=medium"  />
+  <img whight="350" height="500" src="https://pbs.twimg.com/media/F07QvOSaIAAppJP?format=jpg&name=medium"  />
 </div>
 
