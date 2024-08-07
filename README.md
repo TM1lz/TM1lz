@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Olá mundo<br>Me chamo Alisson e estou aprendendo sobre programação<br><br><br>Atualmente estudando Angula/CLI</p>
+<p align="left">Olá mundo<br>Me chamo Alisson e estou aprendendo sobre programação, bem eu perdi meu Github e esse é meu novo :)<br><br><br>Atualmente estudando Angula/CLI</p>
 
 ###
 
