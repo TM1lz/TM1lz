@@ -21,6 +21,6 @@ Estou em constante aprendizado e adoro trabalhar em projetos desafiadores que en
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TM1lz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="TM1lz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TM1lz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<div style="text-align: center;">
+<div style="text-align: center; margin: 0 auto;">
   <img src="https://i.pinimg.com/736x/83/e8/5d/83e85deb149ab7ea1822280107140809.jpg" alt="Descrição da imagem" width="70%" />
 </div>
