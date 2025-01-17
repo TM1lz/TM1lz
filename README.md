@@ -22,5 +22,5 @@ Estou em constante aprendizado e adoro trabalhar em projetos desafiadores que en
 | ------------- | ------------- |
 
 <div style="text-align: center;">
-  <img src="https://i.pinimg.com/736x/83/e8/5d/83e85deb149ab7ea1822280107140809.jpg" alt="Descrição da imagem" width="100%" height="450" />
+  <img src="https://i.pinimg.com/736x/83/e8/5d/83e85deb149ab7ea1822280107140809.jpg" alt="Descrição da imagem" width="100%" />
 </div>
