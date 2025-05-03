@@ -46,6 +46,8 @@
  <img align="center" alt="Alisson-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
   <img align="center" alt="Alisson-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+  
+  <img align="center" alt="Alisson-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"> 
                                                                                                                                                      
 </div>  
   
